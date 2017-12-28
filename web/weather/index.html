@@ -53,6 +53,8 @@
   </style>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
 
 </head>
 
@@ -69,3 +71,13 @@
 </body>
 
 </html>
+<script>
+  $(document).ready(function() {
+    $('body').find('img[src$="https://cdn.rawgit.com/000webhost/logo/e9bd13f7/footer-powered-by-000webhost-white2.png"]').remove();
+  });
+</script>
+<script>
+  $(document).ready(function() {
+    $('body').find('img[src$="https://raw.githubusercontent.com/000webhost/logo/e9bd13f7/footer-powered-by-000webhost-white2.png"]').remove();
+  });
+</script>
