@@ -1245,7 +1245,7 @@ div#testimonials {
 }
 
 .w3-agile-post-img a {
-  background: url(../images/blog3.jpg) no-repeat 0px 0px;
+  background: url(../images/g1.jpg) no-repeat 0px 0px;
   background-size: cover;
   min-height: 300px;
   display: block;
@@ -1253,17 +1253,17 @@ div#testimonials {
 }
 
 .w3-agile-post-img1 a {
-  background: url(../images/g1.jpg) no-repeat 0px 0px;
-  background-size: cover;
-}
-
-.w3-agile-post-img2 a {
   background: url(../images/g10.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
 
-.w3-agile-post-img21 a {
-  background: url(../images/blog4.jpg) no-repeat 0px 0px;
+.w3-agile-post-img2 a {
+  background: url(../images/g11.jpg) no-repeat 0px 0px;
+  background-size: cover;
+}
+
+.w3-agile-post-img3 a {
+  background: url(../images/g3.jpg) no-repeat 0px 0px;
   background-size: cover;
 }
 
