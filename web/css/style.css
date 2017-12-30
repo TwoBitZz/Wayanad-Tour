@@ -1595,7 +1595,7 @@ button.close {
   text-decoration: none;
   padding: .5em 2em;
   background: #00d2be;
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 1px;
   text-align: center;
   border: solid 1px #00d2be;
